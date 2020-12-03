@@ -1,0 +1,19 @@
+{
+  "type"        : "Winamp EQ library file v1.1"
+ ,"presets"     : [
+    {
+      "name"    : "Soft Rock"
+     ,"hz70"    : 39
+     ,"hz180"   : 39
+     ,"hz320"   : 36
+     ,"hz600"   : 31
+     ,"hz1000"  : 25
+     ,"hz3000"  : 23
+     ,"hz6000"  : 26
+     ,"hz12000" : 31
+     ,"hz14000" : 37
+     ,"hz16000" : 47
+     ,"preamp"  : 33
+    }
+  ]
+}

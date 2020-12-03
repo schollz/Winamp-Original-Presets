@@ -1,0 +1,1 @@
+This is the lib, for reference. I've copied some of its logic and not actually "imported"/"required" it, there some fixes and modification to be able to properly write files.

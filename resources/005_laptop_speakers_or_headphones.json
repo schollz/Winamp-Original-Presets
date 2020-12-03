@@ -1,0 +1,19 @@
+{
+  "type"        : "Winamp EQ library file v1.1"
+ ,"presets"     : [
+    {
+      "name"    : "Laptop speakers/headphones"
+     ,"hz70"    : 40
+     ,"hz180"   : 50
+     ,"hz320"   : 41
+     ,"hz600"   : 26
+     ,"hz1000"  : 28
+     ,"hz3000"  : 35
+     ,"hz6000"  : 40
+     ,"hz12000" : 48
+     ,"hz14000" : 53
+     ,"hz16000" : 56
+     ,"preamp"  : 33
+    }
+  ]
+}

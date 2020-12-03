@@ -1,0 +1,19 @@
+{
+  "type"        : "Winamp EQ library file v1.1"
+ ,"presets"     : [
+    {
+      "name"    : "Classical"
+     ,"hz70"    : 33
+     ,"hz180"   : 33
+     ,"hz320"   : 33
+     ,"hz600"   : 33
+     ,"hz1000"  : 33
+     ,"hz3000"  : 33
+     ,"hz6000"  : 20
+     ,"hz12000" : 20
+     ,"hz14000" : 20
+     ,"hz16000" : 16
+     ,"preamp"  : 33
+    }
+  ]
+}

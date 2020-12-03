@@ -1,0 +1,19 @@
+{
+  "type"        : "Winamp EQ library file v1.1"
+ ,"presets"     : [
+    {
+      "name"    : "Large hall"
+     ,"hz70"    : 49
+     ,"hz180"   : 49
+     ,"hz320"   : 42
+     ,"hz600"   : 42
+     ,"hz1000"  : 33
+     ,"hz3000"  : 24
+     ,"hz6000"  : 24
+     ,"hz12000" : 24
+     ,"hz14000" : 33
+     ,"hz16000" : 33
+     ,"preamp"  : 33
+    }
+  ]
+}

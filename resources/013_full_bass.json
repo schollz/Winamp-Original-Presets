@@ -1,0 +1,19 @@
+{
+  "type"        : "Winamp EQ library file v1.1"
+ ,"presets"     : [
+    {
+      "name"    : "Full Bass"
+     ,"hz70"    : 48
+     ,"hz180"   : 48
+     ,"hz320"   : 48
+     ,"hz600"   : 42
+     ,"hz1000"  : 35
+     ,"hz3000"  : 25
+     ,"hz6000"  : 18
+     ,"hz12000" : 15
+     ,"hz14000" : 14
+     ,"hz16000" : 14
+     ,"preamp"  : 33
+    }
+  ]
+}

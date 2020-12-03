@@ -1,0 +1,19 @@
+{
+  "type"        : "Winamp EQ library file v1.1"
+ ,"presets"     : [
+    {
+      "name"    : "Full Treble"
+     ,"hz70"    : 16
+     ,"hz180"   : 16
+     ,"hz320"   : 16
+     ,"hz600"   : 25
+     ,"hz1000"  : 37
+     ,"hz3000"  : 50
+     ,"hz6000"  : 58
+     ,"hz12000" : 58
+     ,"hz14000" : 58
+     ,"hz16000" : 60
+     ,"preamp"  : 33
+    }
+  ]
+}
